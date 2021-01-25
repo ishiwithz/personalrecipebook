@@ -1,6 +1,6 @@
 {
   "name": "personalrecipebook",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A personal recipe book",
   "main": "index.js",
   "dependencies": {
